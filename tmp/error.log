@@ -1,3 +1,0 @@
-exit status 0xc000013a
-ERROR	2022/09/28 09:45:50 main.go:28: listen tcp :8000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
-exit status 1
